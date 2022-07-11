@@ -9,3 +9,6 @@ Demo : https://status.thehostcms.com/demo/ (Connectez vous avec Discord)
 
 # INSTALATION
 ...
+
+# Support
+https://discord.gg/esdq2FAPEz
